@@ -17,7 +17,7 @@ make make this file is to use 'find'.
 		playlist.txt can then be given to alarm.py when it asks for the name of the playlist file.
 
 Planned Features:
-	Exact time specification for the alarm (eg. 8AM) <in progress>
-	Play playlists of music (possibly based on the day of the week) <feature added>
-	auto snooze
+	Exact time specification for the alarm (eg. 8AM) <complete>
+	Play playlists of music (possibly based on the day of the week) <complete>
+	auto snooze <in progress>
 	{more features will be added as I think of them}
